@@ -1,0 +1,1 @@
+gcc -fPIC -shared src.c -o lib.so
